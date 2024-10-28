@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511969581800",
+    "project_id": "chatapp-f2874",
+    "storage_bucket": "chatapp-f2874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511969581800:android:56deae6be51f08f6f8c75d",
+        "android_client_info": {
+          "package_name": "com.kayodedaniel.appchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIwI8H3UUFP2tEogd6JzM3CEHMgnQLE6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
